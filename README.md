@@ -3,6 +3,6 @@ Repositório para códigos, atividades e materiais trabalhados na disciplina de 
 
 ## Neste repositório você pode encontrar:
 
-- [Exemplos trabalhados em aula](Exemplos)
+- [Exemplos trabalhados em aula](exemplos)
 - [Atividades](atividades)
 - [Materiais de estudo](materiais)
