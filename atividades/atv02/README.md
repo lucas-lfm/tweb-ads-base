@@ -10,7 +10,7 @@
 > - ***Tags de listas***: `ul`, `ol`, `dl`
 > - ***Tópicos extras***: tag `code`, atributo `title`, símbolos especiais e emojis
 
-[Acesse aqui](./../../../materiais/slides/IDW-02_HTML-INTRO.pdf) o material trabalhado em aula para revisar as tags acima.
+[Acesse aqui](./../../../materiais/slides/tweb-02-html-intro.pdf) o material trabalhado em aula para revisar as tags acima.
 
 <a id="inst"></a>
 ## Instruções para Realização da Atividade
