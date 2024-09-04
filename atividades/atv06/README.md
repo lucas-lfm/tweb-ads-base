@@ -16,17 +16,17 @@
         <img src="./img-instrucoes/resultado.png">
     </div>
 
-- A prática consiste em construir os elementos iniciais de uma página inicial sobre o IFCE. Esse elementos constituem uma barra de navegação superior, com a logo do IFCE e menus de navegação, e uma seção inicial de CTA (call-to-action) com uma imagem, um texto de impacto e um elemento de CTA (botão "Saiba mais").
+- A prática consiste em construir os elementos iniciais de uma página institucional sobre o IFCE. Esse elementos constituem uma barra de navegação superior, com a logo do IFCE e menus de navegação, e uma seção inicial de CTA (call-to-action) com uma imagem, um texto de impacto e um elemento de CTA (botão "Saiba mais").
 
 - Você pode encontrar as imagens a serem utilizadas na pasta [img-instrucoes](./img-instrucoes/).
 
 - Replique o efeito de sombra na parte inferior da barra de nevegação, como apresentado na imagem acima.
 
-- A seção inicial da página (CTA) tem o como background um gradiente linear.
+- A seção inicial da página (CTA) tem como background um gradiente linear.
 
-- Aplique um efeito consistente com o pseudo-seletor `:hover` nos menus e no botão de CTA com o objetivo de destacar o elemento quando o usuário passar o mouse por cima, possibilitando fácil identificação do elemento selecionado e para deixar claro que aquele elemento é um alvo de ação.
+- Aplique um efeito consistente com o pseudo-seletor `:hover` nos menus e no botão de CTA, com o objetivo de destacar o elemento quando o usuário passar o mouse por cima, possibilitando fácil identificação do elemento selecionado e para deixar claro que aquele elemento é um alvo de ação.
 
-- Defina uma largura máxima para os containers (área de navegação e seção inicial) de 1.024px.
+- Defina uma largura máxima para os contêineres (área de navegação e seção inicial) de 1.024px.
 
 - Utilize alguma ferramenta de seleção de cores para auxilixar na identificação das cores utilizadas. Por exemplo, a ferramenta [Adobe Color](https://color.adobe.com/pt/create/image).
 
